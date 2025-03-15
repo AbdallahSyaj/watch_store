@@ -137,6 +137,7 @@ try {
             </div>
         </div>
     </main>
+    
     <?php require_once "../components/footer.html" ?>
     <script>
         <?php require_once "../../assets/js/navbar.js" ?>
